@@ -9,12 +9,14 @@ can also manage users' avatars through the /users section.
 == Installation
 
 Simply place the plugin in the vendors/plugins directory of your Redmine
-installation (or create a symlink).
+installation (or create a symlink) or run:
+
+script/plugin install git://github.com/kardasa/redminelocalavatars.git 
 
 == Compatibility
 
 Tested on Redmine trunk r4388	(version 1.0.3).  Should be compatible with
-all Redmine versions 1.0.x.
+all Redmine versions 1.0.x
 
 At the moment the plugin doesn't work when running in development mode.
 
@@ -28,7 +30,7 @@ Luca Pireddu <pireddu@gmail.com> at CRS4 (http://www.crs4.it),
 contributed updates and improvements.
 https://code.launchpad.net/redminelocalavatars
 
-Forked this source code to add polish translation and easyup redmine plugin installation for my admin (bzr is not as popular as git :D)
+Andrzej Kardaś  Forked this source code to add polish translation and easyup redmine plugin installation for my admin (bzr is not as popular as git :D)
 
 == Warranty.  What warranty?
 
