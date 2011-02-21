@@ -1,0 +1,8 @@
+# Polish strings go here
+pl:
+  label_avatar: "Awatar"
+  message_avatar_uploaded: "Awatar został pomyślnie załadowany"
+  button_change_avatar:  "Zmień lokalny Awatar"
+  are_you_sure_delete_avatar: "Czy na pewno chcesz usunąć swój Awatar?"
+  avatar_deleted:  "Awatar został usunięty"
+  unable_to_delete_avatar:  "Przykro nam. Wystąpił błąd podczas usuwania awatara"
